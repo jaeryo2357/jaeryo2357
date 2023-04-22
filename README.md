@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-안드로이드 개발자를 꿈는 양민욱입니다~
+안녕하세요 2년차 안드로이드 개발자 양민욱입니다
 
 - 🌱 I’m currently learning Android, RxJava
 - 📫 How to reach me: 
