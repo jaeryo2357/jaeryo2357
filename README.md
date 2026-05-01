@@ -7,8 +7,4 @@
 
 ---
 #### 최근 목표
-- React Native :fire: 
-- 알고리즘 풀기 :fire: 롤 대신 백준 티어 올리기!
-
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=jaeryo)](https://solved.ac/jaeryo/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=jaeryo)
+- 기술 블로그 재정지하기 [블로그 링크](https://jaeryo2357.tistory.com/)
