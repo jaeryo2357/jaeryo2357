@@ -7,4 +7,4 @@
 
 ---
 #### 최근 목표
-- 기술 블로그 재정지하기 [블로그 링크](https://jaeryo2357.tistory.com/)
+- 기술 블로그 재정비하기 [블로그 링크](https://jaeryo2357.tistory.com/)
